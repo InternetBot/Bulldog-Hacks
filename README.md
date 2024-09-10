@@ -8,12 +8,12 @@
 This repository contains everything created by the Bowie State University Cyber Security Club. This ranges from blogs to CTF walkthroughs, scripts, and articles developed and owned by the Bowie State University Cyber Security Club.
 
 <h2 align="left"><i>Executives</i></h3>
-<li>Calvin-Caleb Amiolemen</li>
-<li>Dawn Marshall</li>
-<li>Jared Robinson</li>
-<li>Sage Despeignes</li>
-<li>Brandon Wiggins</li>
-<li>Tobi Ayodegi</li>
+<li><a href="https://www.linkedin.com/in/calvincaleb/">Calvin-Caleb Amiolemen</a></li>
+<li><a href="https://www.linkedin.com/in/dawnmarshall00/">Dawn Marshall</a></li>
+<li><a href="https://www.linkedin.com/in/jared-robinson1/">Jared Robinson</a></li>
+<li><a href="https://www.linkedin.com/in/sage-despeignes/">Sage Despeignes</a></li>
+<li><a href="https://www.linkedin.com/in/brandon-wiggins-812701193/">Brandon Wiggins</a></li>
+<li><a href="https://www.linkedin.com/in/tobi-ayodeji-9abb51265/">Tobi Ayodegi</a></li>
 
 <h2 align="left"><i>Contributors</i></h3>
 <li>Calvin-Caleb Amiolemen</li>
