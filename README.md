@@ -1,2 +1,7 @@
+# BULLDOG HACKS
 
-This repository contains everything created by the Bowie State University Cyber Security Club. This ranges from blogs to CTF walkthroughs, scripts, and articles developed and owned by the Bowie State University Cyber Security Club.
+![main](https://github.com/user-attachments/assets/c2251d29-40c6-45f4-af5c-0d46f5f04a10)
+
+This repository contains everything created by the Bowie State University Cyber Security Club. 
+This ranges from blogs to CTF walkthroughs, scripts, and articles developed and owned by the Bowie State University Cyber Security Club.
+
