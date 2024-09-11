@@ -10,18 +10,26 @@ This repository contains everything created by the Bowie State University Cyber 
 <h2 align="left"><i>Executives</i></h3>
 <table border="1">
   <tr>
-    <td><img src="profile_picture_url" alt="Calvin-Caleb Amiolemen" style="width:50px;height:50px;">
-        <br><a href="https://www.linkedin.com/in/calvincaleb/">Calvin-Caleb Amiolemen</a></td>
-    <td><img src="profile_picture_url" alt="Dawn Marshall" style="width:50px;height:50px;">
-        <br><a href="https://www.linkedin.com/in/dawnmarshall00/">Dawn Marshall</a></td>
-    <td><img src="profile_picture_url" alt="Jared Robinson" style="width:50px;height:50px;">
-        <br><a href="https://www.linkedin.com/in/jared-robinson1/">Jared Robinson</a></td>
-    <td><img src="profile_picture_url" alt="Sage Despeignes" style="width:50px;height:50px;">
-        <br><a href="https://www.linkedin.com/in/sage-despeignes/">Sage Despeignes</a></td>
-    <td><img src="profile_picture_url" alt="Brandon Wiggins" style="width:50px;height:50px;">
-        <br><a href="https://www.linkedin.com/in/brandon-wiggins-812701193/">Brandon Wiggins</a></td>
-    <td><img src="profile_picture_url" alt="Tobi Ayodeji" style="width:50px;height:50px;">
-        <br><a href="https://www.linkedin.com/in/tobi-ayodeji-9abb51265/">Tobi Ayodeji</a></td>
+    <td><img src="assets/profils_picture/Calvin-Caleb Amiolemen.jpg" alt="Calvin-Caleb Amiolemen" style="width:50px;height:50px;">
+        <br><a href="https://www.linkedin.com/in/calvincaleb/">Calvin-Caleb Amiolemen</a>
+        <br><i>President</i></td>
+    <td><img src="assets/profils_picture/Dawn Marshall.jpg" alt="Dawn Marshall" style="width:50px;height:50px;">
+        <br><a href="https://www.linkedin.com/in/dawnmarshall00/">Dawn Marshall</a>
+        <br><i>TBH</i></td>
+    <td><img src="assets/profils_picture/Jared Robinson.jpg" alt="Jared Robinson" style="width:50px;height:50px;">
+        <br><a href="https://www.linkedin.com/in/jared-robinson1/">Jared Robinson</a>
+        <br><i>TBH</i></td>
+  </tr>
+  <tr>
+    <td><img src="assets/profils_picture/Sage Despeignes.jpg" alt="Sage Despeignes" style="width:50px;height:50px;">
+        <br><a href="https://www.linkedin.com/in/sage-despeignes/">Sage Despeignes</a>
+        <br><i>TBH</i></td>
+    <td><img src="assets/profils_picture/Brandon Wiggins.jpg" alt="Brandon Wiggins" style="width:50px;height:50px;">
+        <br><a href="https://www.linkedin.com/in/brandon-wiggins-812701193/">Brandon Wiggins</a>
+        <br><i>TBH</i></td>
+    <td><img src="assets/profils_picture/Tobi Ayodeji.jpg" alt="Tobi Ayodeji" style="width:50px;height:50px;">
+        <br><a href="https://www.linkedin.com/in/tobi-ayodeji-9abb51265/">Tobi Ayodeji</a>
+        <br><i>TBH</i></td>
   </tr>
 </table>
 
