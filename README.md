@@ -1,4 +1,6 @@
-<h1 align="center">BULLDOG HACKS</h1>
+<div style="text-align: center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=250&section=header&text=BULLDOG%20HACKS&fontSize=75" alt="BULLDOG HACKS"/>
+</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c2251d29-40c6-45f4-af5c-0d46f5f04a10" alt="Logo Image" width="400"/>
