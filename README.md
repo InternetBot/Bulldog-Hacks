@@ -20,4 +20,4 @@ This repository contains everything created by the Bowie State University Cyber 
   <img src="https://contrib.rocks/image?repo=InternetBot/Bulldog-Hacks" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+
