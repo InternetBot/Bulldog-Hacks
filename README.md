@@ -16,5 +16,8 @@ This repository contains everything created by the Bowie State University Cyber 
 <li><a href="https://www.linkedin.com/in/tobi-ayodeji-9abb51265/">Tobi Ayodegi</a></li>
 
 <h2 align="left"><i>Contributors</i></h3>
-<li><a href="https://www.linkedin.com/in/calvincaleb/">Calvin-Caleb Amiolemen</a></li>
-<li><a href="https://www.linkedin.com/in/chenilyn/">Chenilyn Joy Espineda</a></li>
+<a href="https://github.com/InternetBot/Bulldog-Hacks/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=InternetBot/Bulldog-Hacks" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
