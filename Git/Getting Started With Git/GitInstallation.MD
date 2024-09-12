@@ -11,9 +11,11 @@ Mac User
 
 `command + space` then search up `terminal`
 
+
 > Once that is done type in this command 
 
 `git --version`
+
 
 > if you get an output like
 
@@ -21,9 +23,15 @@ Mac User
 
 > This means you have git installed you can skip the installation and jump straight to the git commands
 
+
 > Firstly you have to ensure you have homebrew installed, run this command
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+
+
+> Lastly restart your device and run the command
+
+'git --version' to verify you have git installed in your terminal
 
 > After that you can run this commnand 
 
