@@ -6,7 +6,7 @@ If you are reading this that means you want to contribute to the our repo, i am 
 
 Mac User
 
-Firstly lets verify if you have git on your computer open your terminal by pressing:
+> Firstly lets verify if you have git on your computer open your terminal by pressing:
 command + space then search up terminal 
 
 Once that is done type in this command 
