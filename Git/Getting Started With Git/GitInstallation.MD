@@ -19,7 +19,7 @@ Mac User
 
 `git version 2.45.2`
 
->> This means you have git installed you can skip the installation and jump straight to the git commands
+> This means you have git installed you can skip the installation and jump straight to the git commands
 
 > Firstly you have to ensure you have homebrew installed, run this command
 
