@@ -1,6 +1,11 @@
 <h1 align="center"> INTRO TO GIT </h1>
 
 
+Created By: Calvin-Caleb Amiolmen
+Classification: Senior
+Date: 9/12/2024
+
+
 This is a basic walkthrough on how to Install git. Lets go over what Github is. 
 > Github is a cloud-based platform that allows users to store, share, and collaborate on code projects.
 
