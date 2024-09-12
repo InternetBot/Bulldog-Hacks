@@ -35,4 +35,4 @@ This repository contains everything created by the Bowie State University Cyber 
 <h2 align="left"><i>Contributors</i></h3>
 
 <p>This portfolio exists thanks to all the people who contributed 💛🖤</p>
-<a href="https://github.com/InternetBot/Bulldog-Hacks/graphs/contributors"><img src="https://contrib.rocks/image?repo=InternetBot/Bulldog-Hacks" /></a>
+<a href="https://github.com/internetbot/Bulldog-Hacks/graphs/contributors"><img src="https://contrib.rocks/image?repo=internetbot/Bulldog-Hacks" /></a>
