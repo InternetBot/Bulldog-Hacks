@@ -13,21 +13,21 @@ This repository contains everything created by the Bowie State University Cyber 
         <br><i>President</i></td>
     <td align="center"><img src="design assets/profile picture/Dawn Marshall.jpg" alt="Dawn Marshall" style="width:250px;height:auto;">
         <br><a href="https://www.linkedin.com/in/dawnmarshall00/">Dawn Marshall</a>
-        <br><i>TBH</i></td>
+        <br><i>TBD</i></td>
     <td align="center"><img src="design assets/profile picture/Jared Robinson.jpg" alt="Jared Robinson" style="width:250px;height:auto;">
         <br><a href="https://www.linkedin.com/in/jared-robinson1/">Jared Robinson</a>
-        <br><i>TBH</i></td>
+        <br><i>TBD</i></td>
   </tr>
   <tr>
     <td align="center"><img src="design assets/profile picture/Sage Despeignes.jpg" alt="Sage Despeignes" style="width:250px;height:auto;">
         <br><a href="https://www.linkedin.com/in/sage-despeignes/">Sage Despeignes</a>
-        <br><i>TBH</i></td>
+        <br><i>TBD</i></td>
     <td align="center"><img src="design assets/profile picture/Brandon Wiggins.jpg" alt="Brandon Wiggins" style="width:250px;height:auto;">
         <br><a href="https://www.linkedin.com/in/brandon-wiggins-812701193/">Brandon Wiggins</a>
-        <br><i>TBH</i></td>
+        <br><i>TBD</i></td>
     <td align="center"><img src="design assets/profile picture/Tobi Ayodeji.jpg" alt="Tobi Ayodeji" style="width:250px;height:auto;">
         <br><a href="https://www.linkedin.com/in/tobi-ayodeji-9abb51265/">Tobi Ayodeji</a>
-        <br><i>TBH</i></td>
+        <br><i>TBD</i></td>
   </tr>
 </table>
 
@@ -35,4 +35,5 @@ This repository contains everything created by the Bowie State University Cyber 
 <h2 align="left"><i>Contributors</i></h3>
 
 <p>This portfolio exists thanks to all the people who contributed 💛🖤</p>
+
 <a href="https://github.com/internetbot/Bulldog-Hacks/graphs/contributors"><img src="https://contrib.rocks/image?repo=internetbot/Bulldog-Hacks" /></a>
