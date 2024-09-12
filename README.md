@@ -38,11 +38,6 @@ This repository contains everything created by the Bowie State University Cyber 
   <tr>
     <td align="center"><img src="design assets/profile picture/Calvin-Caleb Amiolemen.jpg" alt="Calvin-Caleb Amiolemen" style="width:250px;height:auto;">
         <br><a href="https://www.linkedin.com/in/calvincaleb/">Calvin-Caleb Amiolemen</a>
-        <br><i>President</i></td>
-    <td align="center"><img src="![1698090458585](https://github.com/user-attachments/assets/5f36d7c5-23c5-4ea6-853c-e075df2989b1)
-" alt="Chenilyn Joy Espineda" style="width:250px;height:auto;">
-        <br><a href="https://www.linkedin.com/in/chenilyn/">Chenilyn Joy Espineda</a>
-        <br><i>TBD</i></td>
   </tr>
 
   
