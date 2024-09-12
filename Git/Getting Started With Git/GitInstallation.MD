@@ -33,7 +33,7 @@ If you are reading this that means you want to contribute to the our repo, i am 
 
 > Lastly restart your device and run the command
 
-'git --version' to verify you have git installed in your terminal
+`git --version` to verify you have git installed in your terminal
 
 > After that you can run this commnand 
 
