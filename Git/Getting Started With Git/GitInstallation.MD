@@ -1,4 +1,4 @@
-<h1>align="center"> INTRO TO GIT </h1>
+<h1 align="center"> INTRO TO GIT </h1>
 
 
 This is a basic walkthrough on how to Install git. Lets go over what Github is. 
