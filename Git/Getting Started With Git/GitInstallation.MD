@@ -36,3 +36,7 @@ Mac User
 > After that you can run this commnand 
 
 `brew install git`
+
+> Restart your device and type in the command
+
+`brew --version` to verify if git is intalled 
