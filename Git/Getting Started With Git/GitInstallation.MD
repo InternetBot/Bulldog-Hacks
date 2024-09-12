@@ -1,4 +1,5 @@
-<div align="center"> INTRO TO GIT </div>
+<div><h1>align="center"> INTRO TO GIT </h1></div>
+
 
 This is a basic walkthrough on how to Install git. Lets go over what Github is. 
 > Github is a cloud-based platform that allows users to store, share, and collaborate on code projects.
@@ -6,6 +7,7 @@ This is a basic walkthrough on how to Install git. Lets go over what Github is.
 If you are reading this that means you want to contribute to the our repo, i am glad you have taken this step so lets get over with the basic
 
 <div align="center"> Mac Users </div>
+
 
 > Firstly lets verify if you have git on your computer open your terminal by pressing:
 
