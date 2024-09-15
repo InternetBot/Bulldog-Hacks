@@ -29,6 +29,11 @@ This repository contains everything created by the Bowie State University Cyber 
         <br><a href="https://www.linkedin.com/in/tobi-ayodeji-9abb51265/">Tobi Ayodeji</a>
         <br><i>TBD</i></td>
   </tr>
+  <tr>
+    <td align="center"><img src="design assets/profile picture/Haley Reyes.jpg" alt="Haley Reyes" style="width:250px;height:auto;">
+        <br><a href="https://www.linkedin.com/in/hreyes32/">Haley Reyes</a>
+        <br><i>TBD</i></td>
+  </tr>
 </table>
 
 
