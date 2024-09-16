@@ -1,3 +1,8 @@
+Name: Tarron Montgomery
+Date: 09/11/2024
+Major: Cyber Operations Engineering
+Classification: Junior
+
 CrackMes are challenge programs that are password protected, They test your skills on reverse engineering which is a very important component in cybersecurity. with reverse engineering you are able to find juicy details inside of applications. vulnerable functions, keys, or maybe hidden endpoints if its webapp source code.
 
 Disassemblers are special programs that allow you to take a programs apart and see how it works. at this stage you are able to create breakpoints which is like pressing the pause button at certain points in the programs execution. this allows you to edit the instruction pointer (a special holder for pointing you different places in code) to an address after an if statement where you basically skip the password check, ultimately cracking the software 
